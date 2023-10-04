@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on OWMS project.
+- 🌱 I’m currently learning PHP.
+- 💬 Ask me about life, I'm happy to share some insight.
+- 📫 How to reach me: huy.tran@zalora.com.
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: I don't eat raw food, i.e. sushi.
 <!--
 **huyminhtran-zalora/huyminhtran-zalora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
